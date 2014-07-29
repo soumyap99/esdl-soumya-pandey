@@ -2,7 +2,7 @@
 void main()
 {
   cout<<"welcome to github\n";
-
+  cout<<"This program is returning addition of two numbers";
 }
 
 
